@@ -1,4 +1,4 @@
-package ru.mail.romanov1234567890987.perository;
+package ru.mail.romanov1234567890987.repository;
 
 import java.sql.Connection;
 import java.sql.SQLException;

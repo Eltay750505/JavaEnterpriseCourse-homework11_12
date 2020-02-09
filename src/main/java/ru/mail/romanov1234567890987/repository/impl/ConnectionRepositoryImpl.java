@@ -1,10 +1,9 @@
-package ru.mail.romanov1234567890987.perository.impl;
+package ru.mail.romanov1234567890987.repository.impl;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import ru.mail.romanov1234567890987.repository.ConnectionRepository;
 import ru.mail.romanov1234567890987.util.PropertyUtil;
 
 import java.lang.invoke.MethodHandles;

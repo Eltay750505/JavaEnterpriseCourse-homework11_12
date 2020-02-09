@@ -1,4 +1,4 @@
-package ru.mail.romanov1234567890987.perository.impl;
+package ru.mail.romanov1234567890987.repository.impl;
 
 import ru.mail.romanov1234567890987.repository.TableRepository;
 

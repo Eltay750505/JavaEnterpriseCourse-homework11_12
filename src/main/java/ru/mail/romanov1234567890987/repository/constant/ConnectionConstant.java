@@ -1,4 +1,4 @@
-package ru.mail.romanov1234567890987.perository.constant;
+package ru.mail.romanov1234567890987.repository.constant;
 
 public interface ConnectionConstant {
     String DATABASE_URL = "datasource.url";
